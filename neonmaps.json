@@ -1,0 +1,19 @@
+{
+  "maps": [
+    {
+      "name": "Neon Hero Fly",
+      "image": "https://raw.githubusercontent.com/elisjaenudin/neonhero/main/world1.jpeg",
+      "file": "https://raw.githubusercontent.com/elisjaenudin/neonhero/main/world1.zip"
+    },
+    {
+      "name": "Neon Hero Swing",
+      "image": "https://raw.githubusercontent.com/elisjaenudin/neonhero/main/world2.jpeg",
+      "file": "https://raw.githubusercontent.com/elisjaenudin/neonhero/main/world2.zip"
+    },
+	{
+      "name": "Neon Hero Forest",
+      "image": "https://raw.githubusercontent.com/elisjaenudin/neonhero/main/world3.jpeg",
+      "file": "https://raw.githubusercontent.com/elisjaenudin/neonhero/main/world3.zip"
+    }
+  ]
+}
